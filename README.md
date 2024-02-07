@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lampask/lampask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats-xi-seven-56.vercel.app/api?username=lampask&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
+![](https://github-profile-trophy-gamma-ten.vercel.app/?username=lampask&theme=tokyonight&margin-w=18&margin-h=18&column=4)
